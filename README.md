@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/VOY463-code">
-    <img src="https://user-images.githubusercontent.com/VOY463-code/VOY463-code/main/profile-pic.png" alt="Your Profile Picture" width="200">
+    <img src="https://github.com/VOY463-code/VOY463-code/blob/main/profile-pic.png" alt="Your Profile Picture" width="200">
   </a>
   <h1 align="center">Sander</h1>
   <h3 align="center">Software Developer / Cybersecurity Specialist</h3>
